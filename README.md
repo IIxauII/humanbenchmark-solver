@@ -7,5 +7,6 @@ Example of how to run the code:
 - Press 'Shift + F4' (Windows) or open JS-scratchpad manually
 - Paste code into JS-scratchpad
 - Execute javascript code
+
 Optional:
 - Open Browser Console to view information
