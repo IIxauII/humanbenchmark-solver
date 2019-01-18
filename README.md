@@ -1,5 +1,6 @@
 # humanbenchmark-solver
 These code snippets solve benchmark tests from the site https://www.humanbenchmark.com for you.
+
 My solutions are far from perfect. Feel free to make a pull request and optimize code :)
 
 Example of how to run the code:
