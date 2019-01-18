@@ -1,7 +1,7 @@
 # humanbenchmark-solver
 These code snippets solve benchmark tests from the site https://www.humanbenchmark.com for you.
 
-My solutions are far from perfect. Feel free to make a pull request and optimize code :)
+My solutions are far from perfect and are more of a proof of concept. Feel free to make a pull request and optimize code :)
 
 Example of how to run the code:
 - Open Mozilla Firefox
