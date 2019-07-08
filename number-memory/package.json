@@ -1,0 +1,16 @@
+{
+  "name": "test-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bench.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geckodriver": "^1.16.2",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}

@@ -1,15 +1,17 @@
-startButton = document.querySelector('.button.start');
+verbalMemory = document.querySelector('.verbal-memory-test');
+
+startButton = verbalMemory.querySelector('.test-group:last-child .hero-button');
 if (startButton) {
   startButton.click();
 } else {
   console.log("No start button found. Are you on the correct page?\nhttps://www.humanbenchmark.com/tests/verbal-memory");
 }
 setTimeout(function(){
-  seenButton = document.querySelector('.actions').children[0];
-  newButton = document.querySelector('.actions').children[1];
+  seenButton = verbalMemory.querySelector('.test-group:last-child .hero-button:first-child').children[0];
+  newButton = verbalMemory.querySelector('.test-group:last-child .hero-button:last-child').children[1];
   wordArray = [];
   setInterval(function () {
-    wordContainer = document.querySelector('.word.ng-scope > .ng-binding');
+    wordContainer = verbalMemory.querySelector('');
     console.log('--');
     console.log(wordArray);
     console.log(wordContainer.textContent);
