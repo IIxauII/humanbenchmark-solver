@@ -1,7 +1,7 @@
 const { Builder, By, Key, until } = require('selenium-webdriver');
 
 //adjust this value to change end score
-const maxNumberLength = 3;
+const maxNumberLength = 10;
 
 (async function example() {
     let driver = await new Builder().forBrowser('firefox').build();

@@ -1,0 +1,21 @@
+{
+  "name": "humanbenchmark-solver",
+  "version": "1.0.0",
+  "description": "These code snippets solve benchmark tests from the site https://www.humanbenchmark.com for you.",
+  "main": "reaction-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIxauII/humanbenchmark-solver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IIxauII/humanbenchmark-solver/issues"
+  },
+  "homepage": "https://github.com/IIxauII/humanbenchmark-solver#readme",
+  "dependencies": {}
+}
